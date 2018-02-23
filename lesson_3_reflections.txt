@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Because if I got them automatically I could be flooded with tons of commits.
 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks: clone from github to github
+Clones: clone from github to local OR clone from local to local
+Branches: create an alternative/branch to your code
